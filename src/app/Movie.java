@@ -8,4 +8,5 @@ public class Movie {
   String genre;
   String classification;
   String date;
+  int copies;
 }
