@@ -9,4 +9,6 @@ public class Movie {
   String classification;
   String date;
   int copies;
+  int copiesavailable;
+  int timesrented;
 }
